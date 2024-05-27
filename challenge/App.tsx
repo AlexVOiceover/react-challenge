@@ -1,5 +1,7 @@
+import MouseTracker from "./MouseTracker";
+
 function App() {
-  return <main>hi</main>;
+  return <MouseTracker />
 }
 
 export default App;
